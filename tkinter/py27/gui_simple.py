@@ -1,7 +1,13 @@
-#!/usr/bin/python
 #coding: utf-8
+"""
+@desc: gui auto screen shot，书自动截屏
+@author: Keefe
+@date: 2020/11/18
+@refer:
+@requirement: Tkinter
+"""
 
-from Tkinter import *
+from tkinter import *
 import tkMessageBox
 
 root = Tk()

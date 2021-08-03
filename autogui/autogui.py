@@ -1,4 +1,8 @@
-# coding: utf-8
+#coding: utf-8
+"""
+功能：粘贴
+@since: 2020-11-30
+"""
 
 import pyperclip
 import pyautogui

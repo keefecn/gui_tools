@@ -10,7 +10,7 @@ import time
 import pyautogui
 
 time.sleep(5)
-for i in xrange(10):
+for i in range(10):
     pyautogui.keyDown('right')
     pyautogui.keyUp('right')
     pyautogui.screenshot('images/page_%d.jpg' %i)
